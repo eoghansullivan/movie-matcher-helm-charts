@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  movie-matcher-integration:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2025-03-29T20:03:03.435149449Z"
+    description: A Helm chart for Kubernetes
+    digest: 011ce3a50078f2cd61657b2be51c5b1c62064d02be8cde5c3a07ffe6b71faafb
+    name: movie-matcher-integration
+    type: application
+    urls:
+    - https://github.com/eoghansullivan/movie-matcher-helm-charts/releases/download/movie-matcher-integration-0.1.0/movie-matcher-integration-0.1.0.tgz
+    version: 0.1.0
+generated: "2025-03-29T20:03:03.435177531Z"
